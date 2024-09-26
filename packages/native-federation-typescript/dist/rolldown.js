@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports, "__esModule", {value: true});var _chunk6KP4ELTFjs = require('./chunk-6KP4ELTF.js');var r=_chunk6KP4ELTFjs.a.rolldown,i= exports.NativeFederationTypeScriptHost =_chunk6KP4ELTFjs.b.rolldown;exports.NativeFederationTypeScriptHost = i; exports.NativeFederationTypeScriptRemote = r;

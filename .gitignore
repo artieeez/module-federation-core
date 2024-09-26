@@ -46,7 +46,6 @@ Thumbs.db
 migrations.json
 
 # build contnt
-packages/**/dist
 apps/**/dist
 
 **/@mf-types

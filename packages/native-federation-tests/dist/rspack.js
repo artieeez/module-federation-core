@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports, "__esModule", {value: true});var _chunkUQAU264Cjs = require('./chunk-UQAU264C.js');var o=_chunkUQAU264Cjs.a.rspack,a= exports.NativeFederationTestsHost =_chunkUQAU264Cjs.b.rspack;exports.NativeFederationTestsHost = a; exports.NativeFederationTestsRemote = o;
