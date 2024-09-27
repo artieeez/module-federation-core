@@ -86,7 +86,7 @@
     "@module-federation/runtime-tools": "0.6.6",
     "@module-federation/manifest": "0.6.6",
     "@module-federation/managers": "0.6.6",
-    "@module-federation/dts-plugin": "git+https://github.com/artieeez/module-federation-core.git#dist&path:packages/dts-plugin/module-federation-dts-plugin-0.6.6/package",
+    "@module-federation/dts-plugin": "git+https://github.com/artieeez/module-federation-core.git#dist&path:packages/dts-plugin/module-federation-dts-plugin-0.6.8/package",
     "@module-federation/bridge-react-webpack-plugin": "0.6.6",
     "@module-federation/data-prefetch": "0.6.6",
     "@module-federation/rspack": "0.6.6"
